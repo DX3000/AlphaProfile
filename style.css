@@ -1,0 +1,74 @@
+
+footer {
+    width: 100%;
+}
+
+#nav-name h2 {
+  
+    width: 250px;
+}
+
+nav {
+    
+    height: 75px;
+    padding: 0px;
+}
+
+#nav-name {
+    float: left;
+   
+}
+
+#nav-menu {
+    float: right;
+}
+
+#nav-menu a {
+    color: #2567d1;
+}
+main {
+    
+    margin-top: 25px;
+    padding-bottom: 75px;
+    overflow: auto;
+}
+
+main p {
+    font-size: 1.5em;
+    line-height: 2em;
+    padding-bottom: 400px;
+}
+
+#photo {
+    float: left;
+    margin-right: 30px;
+}
+
+footer {
+    background: gray;
+    border-top: 3px solid teal;
+    text-align: center;
+    color: lightgray;
+    height: 35px;
+    margin-top: 35px;
+
+}
+
+#button {
+    background-color: #4aaaa5;
+    border: none;
+}
+
+.pic {
+    float: left;
+}
+
+.picName {
+    width: 100%;
+    text-align: center;
+    background-color: rgba(74,170,165,0.8);
+    color: white;
+    line-height: 40px;
+    position: relative;
+    top: -90px;
+}
